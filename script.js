@@ -171,6 +171,6 @@ document.querySelectorAll('.gallery-item').forEach(item => {
 });
 
 // Add some random "hacker" text to the console
-console.log('%cANIMATO', 'color: #00ff00; font-size: 20px; font-family: "Press Start 2P";');
+console.log('%ccost of KAUSTAV', 'color: #ff9900; font-size: 20px; font-family: "Press Start 2P";');
 console.log('%cSystem initialized...', 'color: #ff00ff;');
 console.log('%cWelcome to the matrix...', 'color: #00ff00;'); 
